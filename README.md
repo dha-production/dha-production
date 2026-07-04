@@ -174,7 +174,7 @@
 ## 📈 Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhall-afdhal&bg_color=141321&color=a9fef7&line=00E676&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dha-production&bg_color=141321&color=a9fef7&line=00E676&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
