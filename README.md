@@ -138,15 +138,7 @@
 
 ---
 
-## 🐍 Contribution Snake Game  
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
@@ -156,15 +148,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
 
-## 📈 Contribution Graph  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dha-production&bg_color=141321&color=a9fef7&line=00E676&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🎉 Support My Work  
 
@@ -177,4 +161,15 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=500&height=60&lines=Happy+Coding!+%F0%9F%9A%80%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+---
+## 🐍 Contribution Snake Game  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
