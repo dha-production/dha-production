@@ -164,12 +164,35 @@
 </div>
 
 ---
-## 🐍 Contribution Snake Game  
+---
+
+<div align="center">
+  <h2>🕹️ RETRO ARCADE — CONTRIBUTION EATER 🐍</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF9D&center=true&vCenter=true&width=550&lines=STATUS%3A+EATING+COMMITS...;COMBO%3A+161+SQUARES+CONSUMED;INSERT+COIN+TO+CONTINUE+CODING...;SYSTEM+ACTIVE+%E2%9A%A1" alt="Arcade Status"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/dha-production">
+    <img src="https://img.shields.io/badge/DIFFICULTY-HARDCORE-FF0055?style=for-the-badge&logo=ghostery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SPEED-MAX_TURBO-00F0FF?style=for-the-badge&logo=fastlane&logoColor=white"/>
+    <img src="https://img.shields.io/badge/POWER_UP-GIT_PUSH-00FF66?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
+
+<div align="center">
+  <sub>⚡ <i>Ular otomatis meliuk memakan kotak kontribusi nyata GitHub setiap 12 jam</i> ⚡</sub>
+</div>
+
+---
