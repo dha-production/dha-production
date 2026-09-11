@@ -32,15 +32,6 @@
 
 ---
 
-<!-- ## 📊 GitHub Analytics  
-
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhall-afdhal&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhall-afdhal&theme=radical&layout=compact&hide_border=true&border_radius=15&cache_seconds=86400" height="170" style="display:inline-block;"/>
-</div> -->
-
----
-
 ## 🚀 Current Missions  
 
 - 🔭 Expanding **dha Production Projects**  
@@ -58,8 +49,6 @@
   <a href="mailto:dhallafdhal00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="https://dhallafdhal.blogspot.com/"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
 </p>
-
-
 
 <div align="center">
   <img src="https://i.ibb.co/jDpY6xD/neon-line.gif" width="100%" alt="Neon Line"/>
@@ -107,7 +96,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 📝 Latest Blog Posts  
@@ -143,7 +131,6 @@
   </table>
 </div>
 
-
 <div align="center">
   <h3>🎉 Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you'd like to collaborate on exciting projects!</p>
@@ -151,16 +138,15 @@
 
 ---
 
+## 🐍 Contribution Snake Game  
 
-
-<!-- <div align="center">
-## 📊 GitHub Profile Summary  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dha-production&theme=radical" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dha-production&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dha-production&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dha-production&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dha-production&theme=radical" alt="Productive Time" />
-</div> -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/dha-production/dha-production/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
